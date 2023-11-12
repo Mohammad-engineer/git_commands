@@ -1,3 +1,4 @@
 module.export={
-    output:'name-hash'
+    output:'name-hash',
+    filename:'[name]'
 }
